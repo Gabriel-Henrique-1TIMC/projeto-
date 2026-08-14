@@ -1,0 +1,28 @@
+.topo{
+    text-align: center;
+    border: 2px solid black;
+    width: 120px;
+    height: 50px;
+    display: inline-block;
+}
+
+.borda{
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+}
+
+.texto{
+    border: 2px solid black;
+    width: 50px;
+    height: 20px;
+    display: inline-block;
+}
+
+.rodape{
+    border: 2px solid black;
+    width: 10000px;
+    height: 50px;
+    display: block;
+}
